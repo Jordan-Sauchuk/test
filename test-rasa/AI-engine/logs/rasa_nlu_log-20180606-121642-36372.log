@@ -1,0 +1,4 @@
+{"confidence": 0.06893434550911308, "entities": [], "intent": "greet", "text": "Hi"}
+{"confidence": 0.01583292722418903, "entities": [], "intent": "affirm", "text": "How are you"}
+{"confidence": 0.02225247586254289, "entities": [{"end": 27, "entity": "ensure", "start": 21, "value": "vision"}, {"end": 89, "entity": "ensure", "start": 82, "value": "vision"}, {"end": 139, "entity": "develop", "start": 129, "value": "curriculum"}], "intent": "Mission-Statement", "text": "How does a Principal ensure that their school has a technology plan that is fully aligned with the buildings mission, vision and curriculum"}
+{"confidence": 0.029172777682180816, "entities": [{"end": 68, "entity": "accordance", "start": 58, "value": "accordance"}], "intent": "inspire", "text": "How do principals  inspire the school community to act in accordance with the mission, vision and core values"}

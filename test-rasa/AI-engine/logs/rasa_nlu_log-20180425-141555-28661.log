@@ -1,0 +1,9 @@
+{"confidence": 1.0259810746010762, "entities": [], "intent": "greet", "text": "Hi"}
+{"confidence": 0.34734248642776583, "entities": [], "intent": "goodbye", "text": "intro"}
+{"confidence": 0.2829924092508234, "entities": [], "intent": "goodbye", "text": "affirm"}
+{"confidence": 0.6557196483977942, "entities": [], "intent": "intro", "text": "can you tell me"}
+{"confidence": 0.35015282241416423, "entities": [{"end": 9, "entity": "time", "start": 5, "value": "else"}], "intent": "intro", "text": "what else"}
+{"confidence": 0.8471929775640998, "entities": [], "intent": "affirm", "text": "ok"}
+{"confidence": 1.0616950452707836, "entities": [], "intent": "affirm", "text": "yes"}
+{"confidence": 0.49698116548385796, "entities": [{"end": 31, "entity": "time", "start": 28, "value": "now"}], "intent": "event-request", "text": "what is the event happening now"}
+{"confidence": 0.8475691450699785, "entities": [{"end": 18, "entity": "event_name", "start": 8, "value": "python 101"}], "intent": "event-time", "text": "when is python 101 event happening"}

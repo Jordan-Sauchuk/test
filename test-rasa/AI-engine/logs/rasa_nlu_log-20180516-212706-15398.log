@@ -1,0 +1,5 @@
+{"confidence": 1.588557391818586, "entities": [], "intent": "greet", "text": "Hello"}
+{"confidence": 0.9572749833385672, "entities": [{"end": 71, "entity": "municipal", "start": 19, "value": "work with libraries, police department and hospitals"}], "intent": "work_municipal", "text": "How can principals work with libraries, police department and hospitals?"}
+{"confidence": 0.4702248049001877, "entities": [{"end": 19, "entity": "municipal", "start": 0, "value": "work with hospitals"}], "intent": "work_municipal", "text": "work with hospitals?"}
+{"confidence": 0.9562365252039655, "entities": [{"end": 64, "entity": "host", "start": 45, "value": "family health fairs"}], "intent": "community_events", "text": "How do principals open their schools to host family health fairs?"}
+{"confidence": 0.7652045513253671, "entities": [{"end": 32, "entity": "host", "start": 0, "value": "open their schools to host fairs"}], "intent": "community_events", "text": "open their schools to host fairs?"}

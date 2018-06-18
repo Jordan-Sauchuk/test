@@ -1,0 +1,3 @@
+{"confidence": 0.09340799694708643, "entities": [], "intent": "greet", "text": "Hi"}
+{"confidence": 0.011585886757743538, "entities": [{"end": 34, "entity": "culture", "start": 27, "value": "create"}], "intent": "FAQ", "text": "How do principals create a culture which ensures"}
+{"confidence": 0.06331650377369447, "entities": [{"end": 34, "entity": "culture", "start": 27, "value": "create"}, {"end": 138, "entity": "culture", "start": 94, "value": "hold all students to high academic standards"}], "intent": "FAQ", "text": "How do principals create a culture which ensures that all teachers, other faculty and parents hold all students to high academic standards?"}

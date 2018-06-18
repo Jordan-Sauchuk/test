@@ -1,0 +1,33 @@
+{"confidence": 0.0842759965928274, "entities": [], "intent": "greet", "text": "Hello"}
+{"confidence": 0.018927252793795438, "entities": [{"end": 15, "entity": "develop", "start": 13, "value": "me"}], "intent": "goodbye", "text": "can you help me"}
+{"confidence": 0.1768806588722661, "entities": [], "intent": "affirm", "text": "ok"}
+{"confidence": 0.029302879073405945, "entities": [], "intent": "affirm", "text": "really?"}
+{"confidence": 0.020348833191633848, "entities": [{"end": 16, "entity": "culture", "start": 0, "value": "create a culture"}], "intent": "goodbye", "text": "create a culture"}
+{"confidence": 0.01008668798398115, "entities": [{"end": 16, "entity": "culture", "start": 0, "value": "create a culture"}], "intent": "FAQ", "text": "create a culture which ensures that all teachers"}
+{"confidence": 0.008892751299367426, "entities": [{"end": 34, "entity": "culture", "start": 27, "value": "create"}], "intent": "FAQ", "text": "How do principals create a culture which ensures that all teachers"}
+{"confidence": 0.012678930181173801, "entities": [{"end": 27, "entity": "ensure", "start": 21, "value": "vision"}], "intent": "Mission-Statement", "text": "How does a Principal ensure that their school has a technology plan"}
+{"confidence": 0.01614499737825086, "entities": [], "intent": "goodbye", "text": "technology plan"}
+{"confidence": 0.012643792237816916, "entities": [], "intent": "affirm", "text": "principal technology plan"}
+{"confidence": 0.01867730574848252, "entities": [{"end": 37, "entity": "ensure", "start": 30, "value": "vision"}], "intent": "affirm", "text": "technology plan that is fully aligned"}
+{"confidence": 0.014344032393570098, "entities": [{"end": 34, "entity": "aligned", "start": 25, "value": "represent"}], "intent": "Mission-Statement", "text": "chool mission statements represent a useful source of data for gaining"}
+{"confidence": 0.009520553453275196, "entities": [], "intent": "inspire", "text": "How do principals  inspire the school community to act"}
+{"confidence": 0.0220075812813206, "entities": [{"end": 28, "entity": "accordance", "start": 0, "value": "inspire the community to act"}], "intent": "goodbye", "text": "inspire the community to act"}
+{"confidence": 0.030329817972084384, "entities": [{"end": 42, "entity": "accordance", "start": 0, "value": "inspire the community to act in accordance"}], "intent": "inspire", "text": "inspire the community to act in accordance"}
+{"confidence": 0.023757840402302857, "entities": [{"end": 23, "entity": "build", "start": 0, "value": "How do principals build"}, {"end": 33, "entity": "consensus", "start": 24, "value": "consensus"}, {"end": 99, "entity": "consensus", "start": 39, "value": "vision that reflects the core values of the school community"}], "intent": "consensus", "text": "How do principals build consensus on a vision that reflects the core values of the school community"}
+{"confidence": 0.011933163295268893, "entities": [{"end": 53, "entity": "build", "start": 12, "value": "build consensus that reflects core values"}], "intent": "goodbye", "text": "how can you build consensus that reflects core values"}
+{"confidence": 0.021780861177239867, "entities": [{"end": 17, "entity": "build", "start": 4, "value": "can you build"}, {"end": 27, "entity": "consensus", "start": 18, "value": "consensus"}, {"end": 86, "entity": "consensus", "start": 31, "value": "a that reflects the core values of the school community"}], "intent": "consensus", "text": "how can you build consensus on a that reflects the core values of the school community"}
+{"confidence": 0.030233352540662704, "entities": [{"end": 35, "entity": "directory", "start": 6, "value": "principals create a directory"}], "intent": "create_directory", "text": "ow do principals create a directory of of local social service providers"}
+{"confidence": 0.020189217236930155, "entities": [{"end": 26, "entity": "directory", "start": 8, "value": "create a directory"}], "intent": "create_directory", "text": "can you create a directory of local social"}
+{"confidence": 0.02060022499513884, "entities": [{"end": 18, "entity": "directory", "start": 0, "value": "create a directory"}], "intent": "create_directory", "text": "create a directory of service providers"}
+{"confidence": 0.021411869551517748, "entities": [{"end": 55, "entity": "municipal", "start": 19, "value": "work with various municipal agencies"}], "intent": "work_municipal", "text": "How can principals work with various municipal agencies"}
+{"confidence": 0.008139251661709455, "entities": [{"end": 46, "entity": "school mission", "start": 32, "value": "school mission"}], "intent": "FAQ", "text": "How does a principal reflect on school mission and vision"}
+{"confidence": 0.013402760884893922, "entities": [{"end": 27, "entity": "school mission", "start": 21, "value": "school"}], "intent": "goodbye", "text": "principal reflect on school"}
+{"confidence": 0.011448711092281594, "entities": [{"end": 35, "entity": "school mission", "start": 21, "value": "school mission"}], "intent": "goodbye", "text": "principal reflect on school mission"}
+{"confidence": 0.007969920197110977, "entities": [{"end": 25, "entity": "develop", "start": 0, "value": "reflect on school mission"}, {"end": 37, "entity": "develop", "start": 30, "value": "vision'"}], "intent": "goodbye", "text": "reflect on school mission and vision'"}
+{"confidence": 0.007624667156648715, "entities": [{"end": 45, "entity": "school mission", "start": 31, "value": "school mission"}], "intent": "FAQ", "text": "ow does a principal reflect on school mission and vision"}
+{"confidence": 0.008139251661709455, "entities": [{"end": 46, "entity": "school mission", "start": 32, "value": "school mission"}], "intent": "FAQ", "text": "How does a principal reflect on school mission and vision"}
+{"confidence": 0.0842759965928274, "entities": [], "intent": "greet", "text": "Hello"}
+{"confidence": 0.07786399392577933, "entities": [], "intent": "goodbye", "text": "goodbye"}
+{"confidence": 0.033563481607730976, "entities": [], "intent": "affirm", "text": "why"}
+{"confidence": 0.1768806588722661, "entities": [], "intent": "affirm", "text": "ok"}
+{"confidence": 0.011315824997533797, "entities": [], "intent": "work_municipal", "text": "can you"}
